@@ -1,6 +1,6 @@
 # Running the Project
 
-This guide assumes you have Node.js and npm installed on your system. If not, please install them from Node.js official website.  
+This guide assumes you have Node.js and npm installed on your system. If not, please install them from [Node.js](https://nodejs.org/) official website.  
 
 ### Step 1: Clone the Repository
 First, clone the project repository to your local machine using Git:
@@ -10,7 +10,7 @@ cd kanban-live
 ```
 
 ### Step 2: Install Dependencies for the Backend
-Navigate to the `backend` directory and install the required dependencies:
+Navigate to the backend directory and install the required dependencies:
 ```bash
 cd kanban-backend
 npm install
@@ -23,7 +23,7 @@ npm start
 ``` 
 
 ### Step 4: Install Dependencies for the Frontend
-Navigate to the `frontend` directory and install the required dependencies:
+Navigate to the frontend directory and install the required dependencies:
 ```bash
 cd ../kanban-app
 npm install
